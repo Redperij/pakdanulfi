@@ -1,0 +1,297 @@
+{
+  "id": "pakdanulfi",
+  "title": "PAK_DANULFI",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "flags": {
+    "canUpload": true
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "about-face",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "arms-reach",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "autocomplete-whisper",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "barbrawl",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "chat-portrait",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "color-picker",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "custom-css",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "damage-log",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "dd-import",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "dfreds-convenient-effects",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "dfreds-effects-to-chat",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "dice-so-nice",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "dramatic-rolls",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "dungeon-draw",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "easy-regions",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "elevationruler",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "find-the-culprit",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "follow-the-leader",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "forien-copy-environment",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "fxmaster",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "gm-notes",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "gm-vision",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "gurps-categorized-sheet",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "gurps-gridless",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "gurps-instant-defaults",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "gurps-negative-hp",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "gurps-quick-contest",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "gurps-quick-reference-sheet",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "lib-dfreds-ui-extender",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "lib-wrapper",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "lordudice",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "monks-active-tiles",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "monks-bloodsplats",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "monks-combat-marker",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "monks-common-display",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "monks-hotbar-expansion",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "monks-little-details",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "monks-wall-enhancement",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "mookinator",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pointer",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "popout",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "precise-drawing-tools",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "quick-grid-align",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "ru-ru",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "show-actor-art",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "simple-weather",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "simplefog",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "socketlib",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "spotlight-omnisearch",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "tidy-ui_game-settings",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "token-action-hud-core",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "token-action-hud-gurps",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "token-aura-ring",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "vtta-tokenizer",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "_CodeMirror",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": ""
+}
