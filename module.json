@@ -293,5 +293,8 @@
       }
     ]
   },
-  "description": ""
+  "description": "",
+  "url": "https://github.com/Redperij/pakdanulfi",
+	"manifest": "https://raw.githubusercontent.com/Redperij/pakdanulfi/refs/heads/main/module.json",
+	"download": "https://github.com/Redperij/pakdanulfi/archive/refs/heads/main.zip"
 }
